@@ -1,0 +1,9 @@
+Legacy_Field,New_LIMS_Field,Description,Mapping_Status
+Sample_No,Sample_ID,Unique identifier for the laboratory sample,Direct
+Client_Name,Customer_Name,Name of the customer submitting the sample,Direct
+Product,Sample_Type,Description of the submitted product or sample,Direct
+Received_Date,Date_Received,Date the laboratory received the sample,Direct
+Test_Type,Analysis_Type,Type of analysis requested,Direct
+Status,Sample_Status,Current status of the sample in the workflow,Requires standardisation
+Analyst,Assigned_Analyst,Analyst assigned to the sample,Direct
+Result_Date,Date_Completed,Date the analysis was completed,Direct
