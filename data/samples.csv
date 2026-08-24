@@ -1,0 +1,31 @@
+Sample_No,Client_Name,Product,Received_Date,Test_Type,Status,Analyst,Result_Date
+S1001,FreshFood GmbH,Ready-to-eat salad,2026-07-01,Microbiology,Completed,Anna Keller,2026-07-03
+S1002,GreenFarm AG,Tomatoes,2026-07-01,Pesticide,Completed,Michael Braun,2026-07-05
+S1003,AquaCheck GmbH,Drinking water,2026-07-02,Microbiology,Completed,Laura Weber,2026-07-04
+S1004,NutriPlus GmbH,Vitamin supplement,2026-07-02,Heavy Metals,In Progress,Thomas Fischer,
+S1005,FreshFood GmbH,Chicken product,2026-07-03,Microbiology,Completed,Sarah Klein,2026-07-06
+S1006,GreenFarm AG,Apples,2026-07-03,Pesticide,Received,,
+S1007,FoodWorks GmbH,Cheese,2026-07-04,Microbiology,Completed,Anna Keller,2026-07-07
+S1008,AquaCheck GmbH,Surface water,2026-07-04,Chemical Analysis,In Progress,Michael Braun,
+S1009,NutriPlus GmbH,Protein powder,2026-07-05,Heavy Metals,Completed,Laura Weber,2026-07-08
+S1010,FreshFood GmbH,Fruit juice,2026-07-05,Microbiology,Received,,
+S1011,GreenFarm AG,Cucumbers,2026-07-06,Pesticide,Completed,Thomas Fischer,2026-07-09
+S1012,FoodWorks GmbH,Yogurt,2026-07-06,Microbiology,Completed,Sarah Klein,2026-07-08
+S1013,AquaCheck GmbH,Drinking water,2026-07-07,Microbiology,In Progress,Anna Keller,
+S1014,NutriPlus GmbH,Energy drink,2026-07-07,Chemical Analysis,Completed,Michael Braun,2026-07-10
+S1015,FreshFood GmbH,Frozen vegetables,2026-07-08,Microbiology,Received,,
+S1016,GreenFarm AG,Strawberries,2026-07-08,Pesticide,Completed,Laura Weber,2026-07-11
+S1017,FoodWorks GmbH,Milk,2026-07-09,Microbiology,In Progress,Sarah Klein,
+S1018,AquaCheck GmbH,Pool water,2026-07-09,Chemical Analysis,Completed,Thomas Fischer,2026-07-12
+S1019,NutriPlus GmbH,Mineral supplement,2026-07-10,Heavy Metals,Completed,Anna Keller,2026-07-13
+S1020,FreshFood GmbH,Prepared meal,2026-07-10,Microbiology,Completed,Michael Braun,2026-07-14
+S1021,GreenFarm AG,Potatoes,2026-07-11,Pesticide,Completed,Laura Weber,2026-07-13
+S1022,FoodWorks GmbH,Butter,2026-07-11,Microbiology,In Progress,,
+S1023,AquaCheck GmbH,Drinking water,2026-07-12,Microbiology,Completed,Thomas Fischer,2026-07-15
+S1024,NutriPlus GmbH,Iron supplement,2026-07-12,Heavy Metals,Received,,
+S1025,FreshFood GmbH,Ready meal,2026-07-13,Microbiology,Complete,Anna Keller,2026-07-16
+S1026,GreenFarm AG,Peppers,2026-07-13,Pesticide,Completed,Laura Weber,2026-07-10
+S1027,FoodWorks GmbH,Bread,2026-07-14,Microbiology,In Progress,Sarah Klein,
+S1028,AquaCheck GmbH,Surface water,2026-07-14,Chemical Analysis,Completed,Michael Braun,2026-07-17
+S1029,NutriPlus GmbH,Calcium supplement,2026-07-15,Heavy Metals,Completed,Thomas Fischer,2026-07-18
+S1029,NutriPlus GmbH,Calcium supplement,2026-07-15,Heavy Metals,Completed,Thomas Fischer,2026-07-18
