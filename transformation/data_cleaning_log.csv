@@ -1,4 +1,4 @@
 Change_ID,Sample_No,Field,Original_Value,Cleaned_Value,Action,Reason
 CHG-001,S1029,Sample_No,S1029,Removed duplicate record,Duplicate removed,Exact duplicate source record
 CHG-002,S1025,Status,Complete,Completed,Standardised value,Align with approved status terminology
-CHG-004,S1026,Result_Date,2026-07-10,Pending verification,Flagged for review,Result date occurs before received date
+CHG-003,S1026,Result_Date,2026-07-10,Pending verification,Flagged for review,Result date occurs before received date
