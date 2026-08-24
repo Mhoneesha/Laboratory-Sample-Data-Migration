@@ -1,4 +1,4 @@
 Issue_ID,Sample_No,Issue_Type,Description,Severity,Owner,Status,Recommended_Action
 ISS-001,S1029,Duplicate,Exact duplicate sample record identified,High,Data Migration Team,Open,Confirm source record and remove duplicate before migration
-ISS-003,S1025,Status Standardisation,Status value Complete differs from standard Completed,Medium,Data Migration Team,Open,Standardize Complete to Completed before migration
-ISS-004,S1026,Date Validation,Result date is earlier than received date,High,Laboratory Data Owner,Open,Verify completion date against source record
+ISS-002,S1025,Status Standardisation,Status value Complete differs from standard Completed,Medium,Data Migration Team,Open,Standardize Complete to Completed before migration
+ISS-003,S1026,Date Validation,Result date is earlier than received date,High,Laboratory Data Owner,Open,Verify completion date against source record
